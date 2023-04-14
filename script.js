@@ -190,6 +190,6 @@ for (let elem of games) {
   div_icons.appendChild(video);
   //image du lien cliquable
   let video_logo = document.createElement("img");
-  video_logo.src = "./asset/info.png";
+  video_logo.src = "./asset/youtube.png";
   video.appendChild(video_logo);
 }
