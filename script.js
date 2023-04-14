@@ -5,7 +5,7 @@ const games = [
     année: "2 juin 2020",
     dev: "Riot Games",
     platform: ["Console, ordinateur"],
-    picture: "./asset/valorant.png",
+    picture: "./asset/valorant.jpeg",
     letsplay:
       "https://www.youtube.com/watch?v=2ldTyWkdOjw&pp=ygUTbGV0J3MgcGxheSB2YWxvcmFudA%3D%3D",
     genre: ["FPS"],
