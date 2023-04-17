@@ -13,7 +13,7 @@ const games = [
   //#2
   {
     title: "The Legend Of Zelda : Wind Waker HD",
-    année: "20 septemnbre 2013",
+    année: "20 septembre 2013",
     dev: "Nintendo",
     platform: ["Wii U"],
     picture: "asset/zelda.jpg",
