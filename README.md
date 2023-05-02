@@ -13,7 +13,7 @@ pour créer une collection d'éléments. Ce projet sera scindé en deux parties.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass" />
   </a>
 </p>
 
